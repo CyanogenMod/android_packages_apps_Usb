@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="usb_period">.</string>
+    <string name="usb_ok">OK</string>
+    <string name="usb_cancel">Zrušiť</string>
+    <string name="usb_3_periods">...</string>
+    <string name="usb_toast_connecting_to">Pripájanie na</string>
+    <string name="usb_toast_phone_data_disabled">Dátove spojenie bude zakázané.</string>
+    <string name="usb_no_memory_card_notification_title">Nieje vložená SD Karta</string>
+    <string name="usb_no_memory_card_notification_message_title">Chýbajúca Pamäťová karta</string>
+    <string name="usb_no_memory_card_notification_message">Prosím vložte Pamäťovú kartu</string>
+    <string name="usb_selection_notification_title">USB pripojenie</string>
+    <string name="usb_selection_notification_message">Vyberete pre spravovanie USB pripojenia</string>
+    <string name="usb_selection_notification_message_for_modem">Ťuknite pre odpojenie  a povolenie dátových spojení</string>
+    <string name="usb_connection">USB pripojenie</string>
+    <string name="usb_mode_ngp">Portal &amp; Nástroje</string>
+    <string name="usb_mode_mtp">Windows Media Sync</string>
+    <string name="usb_mode_msc">Prístup na Pamäťovú kartu</string>
+    <string name="usb_mode_modem">Telefón ako Modem</string>
+    <string name="usb_mode_none">Iba Nabíjanie</string>
+    <string name="usb_toast_insert_card">Prosím vložte pamäťovú kartu pre prístup k médiám</string>
+    <string name="usb_progress_message">Prepínám na</string>
+    <string name="usb_error_message">USB pripojenie neviem zmeniť na</string>
+</resources>
