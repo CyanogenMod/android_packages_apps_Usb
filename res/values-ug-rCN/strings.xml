@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="usb_toast_connecting">USB %s سۈپىتىدە باغلاندى.</string>
+    <string name="usb_toast_phone_data_disabled">تېلېفون سانلىق مەلۇماتى چەكلەندى.</string>
+    <string name="usb_selection_notification_title">USB باغلىنىشى</string>
+    <string name="usb_selection_notification_message">باشقۇرىدىغان USB باغلىنىشىڭىزنى تاللاڭ</string>
+    <string name="usb_selection_notification_message_for_modem">تەپسىلات ۋە ئۈزۈش ئۈچۈن چېكىڭ</string>
+    <string name="usb_connection">USB باغلىنىشى</string>
+    <string name="usb_mode_ngp">دەرۋازا ۋە قوراللار</string>
+    <string name="usb_mode_mtp">Windows ۋاستە قەدەمداش</string>
+    <string name="usb_mode_msc">ساقلىغۇچ زىيارىتى</string>
+    <string name="usb_mode_modem">تېلېفوننى مودىم سۈپىتىدە ئىشلىتىدۇ</string>
+    <string name="usb_mode_none">پەقەتلا توكلا</string>
+</resources>
